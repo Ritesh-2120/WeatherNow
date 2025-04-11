@@ -1,12 +1,34 @@
-# React + Vite
+Real-Time Weather App 🌦️
+Overview
+The Real-Time Weather App is a React-based web application that allows users to search for and view real-time weather conditions for any city in the world. Built with simplicity and functionality in mind, the app fetches data from the SheCodes Weather API and displays weather details based on the user's input or previous searches.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+🌍 Global Weather Search: Users can search for weather conditions in any city worldwide.
 
-Currently, two official plugins are available:
+🌡️ Detailed Weather Information: Displays current weather, including:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Temperature
 
-## Expanding the ESLint configuration
+Weather description
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📊 Dynamic Updates: Real-time weather data fetched from the SheCodes Weather API.
+
+Technologies & Tools Used
+Frontend: React.js, HTML, CSS, JavaScript
+
+API Integration: OpenWeatherMap API
+
+Development Tools: VS Code
+
+Demo
+weather-now-psi-nine.vercel.app
+
+Usage
+Enter the name of a city in the search bar.
+
+View the current weather details for the city, including temperature and a brief weather description.
+
+Revisit the app to see weather updates for the last searched city.
+
+Screenshots
+(Add screenshots here to showcase your app features)
