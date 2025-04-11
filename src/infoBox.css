@@ -1,0 +1,18 @@
+.CardMedia {
+    margin-bottom: 20px;
+    border-radius: 50px;
+}
+
+h5 {
+    color: #333;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.CardContent {
+    padding: 20px;
+}
+
+div {
+    font-size: 1.1rem;
+}
